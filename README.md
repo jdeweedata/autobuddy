@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoBuddy
 
 AutoBuddy is an AI-powered automotive assistant built with Next.js and TypeScript.
@@ -36,3 +37,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# autobuddy
+AI-powered automotive assistant
+>>>>>>> 4e521b0b8f6cc374da332372f20b84a73e939f9a
